@@ -16,9 +16,9 @@ This repository contains high-impact analytical projects focused on revenue grow
 * **Probability of Causal Effect:** **>99%** (Posterior probability).
 
 ### Visual Analysis
-![Actual vs Predicted](https://github.com/kseniiaanalyst/python-portfolio/blob/main/plot1.png)
-![Pointwise Effects](https://github.com/kseniiaanalyst/python-portfolio/blob/main/plot2.png)
-![Cumulative Impact](https://github.com/kseniiaanalyst/python-portfolio/blob/main/plot3.png)
+![Actual vs Predicted](plot1.png)
+![Pointwise Effects](plot2.png)
+![Cumulative Impact](plot3.png)
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains high-impact analytical projects focused on revenue grow
 * **Geographical Structure:** Visualized regional preference shifts (NA vs JP vs EU) to support localization and regional pricing strategies.
 
 ### Visual Analysis
-![Market Concentration](https://github.com/kseniiaanalyst/python-portfolio/blob/main/plot4.png)
+![Market Concentration](plot4.png)
 
 
 ---
