@@ -15,7 +15,9 @@
 * **Probability of Causal Effect:** **>99%** (Posterior probability).
 
 ### Visual Analysis
-
+![Actual vs Predicted](plot1.png) 
+![Pointwise Effects](plot2.png) 
+![Cumulative Impact](plot3.png)
 ---
 
 ## Case 2: Revenue Concentration & Portfolio Analysis (Pareto & Regional Dynamics)
@@ -26,7 +28,7 @@
 * **Geographical Structure:** Visualized regional preference shifts (NA vs JP vs EU) to support localization and regional pricing strategies.
 
 ### Visual Analysis
-
+![Market Concentration](plot4.png)
 
 
 ---
